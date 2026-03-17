@@ -31,24 +31,24 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/krishna-tiwari-195777333" target="blank">
-<img src="https://img.icons8.com/color/48/linkedin.png" height="40"/>
+<a href="https://linkedin.com/in/krishna-tiwari-195777333" target="_blank">
+  <img src="https://img.icons8.com/color/96/linkedin.png" height="55"/>
 </a>
 
-<a href="https://www.codechef.com/users/krishnacode_3" target="blank">
-<img src="https://img.icons8.com/color/48/codechef.png" height="40"/>
+<a href="https://www.codechef.com/users/krishnacode_3" target="_blank">
+  <img src="https://img.icons8.com/color/96/codechef.png" height="55"/>
 </a>
 
-<a href="https://codeforces.com/profile/krishna.08072005" target="blank">
-<img src="https://img.icons8.com/color/48/codeforces.png" height="40"/>
+<a href="https://codeforces.com/profile/krishna.08072005" target="_blank">
+  <img src="https://sta.codeforces.com/s/0/apple-icon-180x180.png" height="55" style="border-radius:8px;"/>
 </a>
 
-<a href="https://www.leetcode.com/krishna_tiwari005" target="blank">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="40"/>
+<a href="https://www.leetcode.com/krishna_tiwari005" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="55"/>
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/krishnacoding003" target="blank">
-<img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="40"/>
+<a href="https://auth.geeksforgeeks.org/user/krishnacoding003" target="_blank">
+  <img src="https://img.icons8.com/color/96/GeeksforGeeks.png" height="55"/>
 </a>
 
 </p>
