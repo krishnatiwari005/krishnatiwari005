@@ -1,23 +1,26 @@
-<!--![logo]( link)-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=200&section=header&text=Krishna%20Tiwari&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+
 <h1 align="center">Hi 👋, I'm Krishna Tiwari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Python+Developer;ML+Enthusiast;UI%2FUX+Designer;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Python+Developer;ML+Enthusiast;UI%2FUX+Designer;Competitive+Programmer"/>
 </p>
 
 <p align="center">
   <em>🚀 Building scalable apps • 🎨 Designing elegant UI • 🧠 Solving real-world problems</em>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284106-0b9d3c63-7b6f-4f8c-bb2f-5c8c6c8c4b8e.gif" width="100%"/>
+
 ---
 
 ### 👨‍💻 About Me
 
 <p align="left">
-🔭 Currently working on <b>Flutter & AI-powered applications</b><br>
-🌱 Exploring <b>Machine Learning & System Design</b><br>
-💬 Ask me about <b>Flutter, DSA, Competitive Programming</b><br>
-📫 Reach me at <b>krishna.08072005@gmail.com</b><br>
+🔭 Currently working on <b>Flutter & AI-powered applications</b><br/>
+🌱 Exploring <b>Machine Learning & System Design</b><br/>
+💬 Ask me about <b>Flutter, DSA, Competitive Programming</b><br/>
+📫 Reach me at <b>krishna.08072005@gmail.com</b><br/>
 ⚡ Fun fact: <i>I turn ideas into real-world products</i>
 </p>
 
@@ -26,6 +29,8 @@
 </p>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284106-0b9d3c63-7b6f-4f8c-bb2f-5c8c6c8c4b8e.gif" width="100%"/>
 
 ### 🌐 Connect With Me
 
@@ -40,7 +45,7 @@
 </a>
 
 <a href="https://codeforces.com/profile/krishna.08072005" target="_blank">
-  <img src="https://sta.codeforces.com/s/0/apple-icon-180x180.png" height="55" style="border-radius:8px;"/>
+  <img src="https://sta.codeforces.com/s/0/apple-icon-180x180.png" height="55"/>
 </a>
 
 <a href="https://www.leetcode.com/krishna_tiwari005" target="_blank">
@@ -55,57 +60,56 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284106-0b9d3c63-7b6f-4f8c-bb2f-5c8c6c8c4b8e.gif" width="100%"/>
+
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,c,cpp,firebase,figma,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,c,cpp,firebase,figma,git,github,postman"/>
 </p>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284106-0b9d3c63-7b6f-4f8c-bb2f-5c8c6c8c4b8e.gif" width="100%"/>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnatiwari005&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnatiwari005&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnatiwari005&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnatiwari005&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnatiwari005&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnatiwari005&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284106-0b9d3c63-7b6f-4f8c-bb2f-5c8c6c8c4b8e.gif" width="100%"/>
 
 ### 🚀 Featured Projects
 
 <p align="center">
-🔹 <a href="https://github.com/krishnatiwari005">Explore My Projects</a>
+  🔹 <a href="https://github.com/krishnatiwari005">Explore My Projects</a>
 </p>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284106-0b9d3c63-7b6f-4f8c-bb2f-5c8c6c8c4b8e.gif" width="100%"/>
 
 ### ✨ Quote
 
 <p align="center">
-<i>"Code is not just logic — it's creativity turned into reality."</i>
+  <i>"Code is not just logic — it's creativity turned into reality."</i>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00F7FF&height=120&section=footer"/>
+
 ---
----
+
 <!--
-**krishnatiwari005/krishnatiwari005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**krishnatiwari005/krishnatiwari005** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
