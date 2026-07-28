@@ -12,12 +12,26 @@
 
 ---
 
-<!-- AI Neural Network Animation -->
+<!-- AI Neural Network Animation 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+</div> -->
+
+## Contribution Activity
+
+<div align="center">
+
+<!--START_SECTION:pacman-->
+<img src="https://raw.githubusercontent.com/krishnatiwari005/krishnatiwari005/output/pacman-contribution-graph-dark.svg" width="100%"/>
+<!--END_SECTION:pacman-->
+
+<sub>Rendered daily by a scheduled GitHub Action using <a href="https://github.com/platane/snk">Platane/snk</a> — workflow defined in <code>.github/workflows/pacman.yml</code>.</sub>
+
 </div>
 
 <br/>
+
+
 
 ## 🧬 About Me
 
