@@ -20,13 +20,9 @@
 ## Contribution Activity
 
 <div align="center">
-
 <!--START_SECTION:pacman-->
 <img src="https://raw.githubusercontent.com/krishnatiwari005/krishnatiwari005/output/pacman-contribution-graph-dark.svg" width="100%"/>
 <!--END_SECTION:pacman-->
-
-<sub>Rendered daily by a scheduled GitHub Action using <a href="https://github.com/platane/snk">Platane/snk</a> — workflow defined in <code>.github/workflows/pacman.yml</code>.</sub>
-
 </div>
 
 <br/>
