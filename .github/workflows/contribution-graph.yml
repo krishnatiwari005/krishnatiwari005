@@ -34,6 +34,7 @@ jobs:
 
       - name: Fetch public contribution calendar and generate SVGs
         env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USER: ${{ github.repository_owner }}
           OUTPUT_DIR: assets
         run: python scripts/generate_contribution_graph.py
