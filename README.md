@@ -121,16 +121,20 @@ class KrishnaTiwari:
 ## 📈 GitHub Contribution Activity
 
 <div align="center">
-
-[![Krishna's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnatiwari005&bg_color=0D1117&color=00F7FF&line=6A5ACD&point=FFFFFF&area=true&area_color=00F7FF&title_color=00F7FF&border_color=30363D&radius=16&height=300&custom_title=GitHub%20Contribution%20Activity&days=31)](https://github.com/krishnatiwari005)
-
+  <img
+    src="https://raw.githubusercontent.com/krishnatiwari005/krishnatiwari005/main/assets/contribution-30d.svg"
+    alt="GitHub contribution activity with daily bars and a smooth seven-day trend line"
+    width="100%"
+  />
+  <br/>
+  <sub>Daily contributions with a smooth curved 7-day trend line · Automatically generated from GitHub's contribution calendar</sub>
+  <br/><br/>
+  <a href="https://raw.githubusercontent.com/krishnatiwari005/krishnatiwari005/main/assets/contribution-30d.svg">30 days</a> ·
+  <a href="https://raw.githubusercontent.com/krishnatiwari005/krishnatiwari005/main/assets/contribution-90d.svg">90 days</a> ·
+  <a href="https://raw.githubusercontent.com/krishnatiwari005/krishnatiwari005/main/assets/contribution-365d.svg">365 days</a>
 </div>
 
-<div align="center">
-
-<sub>Contribution activity over the recent 31 days. The chart is rendered by the GitHub Readme Activity Graph service.</sub>
-
-</div>
+> This graph is generated and stored in this repository as an SVG. It does not rely on an external chart-rendering website. Run **Actions → Update Contribution Graph → Run workflow** once after adding the workflow and script; the graph appears after that run succeeds.
 
 ### 🐍 Contribution Snake
 
