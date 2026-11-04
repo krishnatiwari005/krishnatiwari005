@@ -1,0 +1,61 @@
+name: Update Contribution Graph
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+      - 'scripts/generate_contribution_graph.py'
+      - '.github/workflows/contribution-graph.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-graph
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch public contribution calendar and generate SVGs
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+          OUTPUT_DIR: assets
+        run: python scripts/generate_contribution_graph.py
+
+      - name: Validate generated SVG files
+        run: |
+          set -euo pipefail
+          for file in assets/contribution-30d.svg assets/contribution-90d.svg assets/contribution-365d.svg; do
+            test -s "$file"
+            grep -q '<svg ' "$file"
+            echo "Validated $file"
+          done
+
+      - name: Commit generated charts to main
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-30d.svg assets/contribution-90d.svg assets/contribution-365d.svg
+          if git diff --cached --quiet; then
+            echo "Contribution charts are already up to date."
+            exit 0
+          fi
+          git commit -m "chore: update contribution activity charts"
+          git push origin HEAD:main
