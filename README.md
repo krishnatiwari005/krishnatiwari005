@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:00F7FF,100:6A5ACD&height=240&section=header&text=Krishna%20Tiwari&fontSize=68&fontAlignY=55&animation=fadeIn&fontColor=ffffff&stroke=00F7FF&strokeWidth=2&desc=AI%20DEVELOPER%20%7C%20AGENTIC%20AI%20%7C%20LLM%20APPLICATIONS&descSize=17&descAlignY=76&descAlign=50" width="100%" alt="Krishna Tiwari - AI Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:00F7FF,100:6A5ACD&height=240&section=header&text=Krishna%20Tiwari&fontSize=68&fontAlignY=55&animation=fadeIn&fontColor=ffffff&stroke=00F7FF&strokeWidth=2&desc=AI%20DEVELOPER%20%7C%20AGENTIC%20AI%20%7C%20GENERATIVE%20AI&descSize=17&descAlignY=76&descAlign=50" width="100%" alt="Krishna Tiwari - AI Developer" />
 </div>
 
 <div align="center">
@@ -12,32 +12,33 @@
 
 ## 👋 About Me
 
-Hi, I'm **Krishna Tiwari**, an AI Developer interested in building practical AI applications, intelligent agents, and LLM-powered systems.
+Hi, I'm **Krishna Tiwari**, an **AI Developer** focused on building practical AI applications, intelligent agents, and LLM-powered systems.
 
-I enjoy working across the AI application stack — from designing agent workflows and retrieval pipelines to building Python APIs and connecting them with databases.
+I enjoy working across the AI application stack — designing agent workflows, building retrieval pipelines, developing Python APIs, and connecting AI applications with databases and external tools.
 
-- 🤖 Building **agentic AI applications** with LangChain, LangGraph, and Agno.
-- 🧠 Working with **Generative AI, LLMs, RAG, and machine learning concepts**.
-- 🔌 Exploring **Model Context Protocol (MCP)** for connecting AI systems with tools and context.
+- 🤖 Building agentic AI workflows with **LangChain, LangGraph, and Agno**.
+- 🧠 Exploring **Generative AI, LLM applications, RAG, and MCP**.
+- 📚 Working with **Machine Learning, data processing, and model fundamentals**.
 - ⚙️ Developing backend services and APIs using **Python and FastAPI**.
-- 🗄️ Working with **PostgreSQL, SQLite, and vector search tools**.
-- 🚀 Currently shaping ideas into useful, deployable AI products.
+- 🗄️ Working with **PostgreSQL, SQLite, Supabase, and vector search**.
+- 🚀 Focused on turning AI ideas into useful, reliable applications.
 
 ```python
 class KrishnaTiwari:
     name = "Krishna Tiwari"
     location = "India 🇮🇳"
-    role = "AI Developer | Agentic AI & LLM Applications"
+    role = "AI Developer | Agentic AI & Generative AI"
 
-    interests = [
-        "Agentic AI and multi-step workflows",
-        "Generative AI and LLM applications",
+    focus_areas = [
+        "Agentic AI and workflow orchestration",
+        "LLM applications and Generative AI",
         "Retrieval-Augmented Generation (RAG)",
-        "Machine Learning and Deep Learning",
+        "Model Context Protocol (MCP)",
+        "Machine Learning and data science",
         "Python backend and API development",
     ]
 
-    currently_building = ["Agethrix", "AI-powered applications"]
+    core_tools = ["Python", "LangChain", "LangGraph", "Agno", "FastAPI"]
 
     def motto(self):
         return "Build useful things. Keep learning. Make AI practical. 🚀"
@@ -45,15 +46,15 @@ class KrishnaTiwari:
 
 ---
 
-## 🧠 What I Work On
+## 🧠 Areas of Focus
 
-| Area | Focus |
+| Area | What I work on |
 |:--|:--|
-| **Agentic AI** | Tool-using agents, agent workflows, orchestration, and automation |
+| **Agentic AI** | Tool-using agents, workflow orchestration, and task automation |
 | **Generative AI** | LLM-powered applications and prompt-driven workflows |
 | **RAG** | Document loading, text splitting, embeddings, retrieval, and grounded responses |
-| **MCP** | Connecting models with tools and external context |
-| **Machine Learning** | Data preparation, model fundamentals, and evaluation |
+| **MCP** | Connecting AI models with tools and external context |
+| **Machine Learning** | Data preparation, core ML concepts, and model workflows |
 | **Backend Engineering** | Python services, REST APIs, and database integration |
 
 ---
@@ -79,6 +80,7 @@ class KrishnaTiwari:
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🔗 LLM Providers
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
@@ -116,28 +118,21 @@ class KrishnaTiwari:
 
 ---
 
-## 🚀 Selected Projects
-
-### Agethrix — Agent Builder Platform
-A prompt-to-deployment AI agent platform concept focused on helping users build, personalize, and deploy intelligent agents.
-
-### DataPilot AI — Agentic Data Analysis
-An agentic workflow for exploring datasets and automating data-analysis tasks using Python and Agno.
-
-### TabPilot AI — Browser AI Assistant
-A browser assistant concept for understanding web-page content and working with uploaded documents through a RAG-based workflow.
+## 📈 GitHub Contribution Activity
 
 <div align="center">
 
-[![Explore Repositories](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnatiwari005?tab=repositories)
+[![Krishna's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnatiwari005&bg_color=0D1117&color=00F7FF&line=6A5ACD&point=FFFFFF&area=true&area_color=00F7FF&title_color=00F7FF&border_color=30363D&radius=16&height=300&custom_title=GitHub%20Contribution%20Activity&days=31)](https://github.com/krishnatiwari005)
 
 </div>
 
----
+<div align="center">
 
-## 📈 GitHub Contribution Activity
+<sub>Contribution activity over the recent 31 days. The chart is rendered by the GitHub Readme Activity Graph service.</sub>
 
-This contribution animation is generated from your GitHub contribution calendar by GitHub Actions and published to the `output` branch of this repository.
+</div>
+
+### 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -173,6 +168,6 @@ This contribution animation is generated from your GitHub contribution calendar 
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6A5ACD,50:00F7FF,100:0D0D0D&height=130&section=footer&text=Building%20Useful%20AI%20Systems%20%F0%9F%A4%96&fontSize=27&fontColor=ffffff&animation=fadeIn" width="100%" alt="Building useful AI systems" />
 
-**⭐ If you find my work interesting, feel free to explore my repositories and leave a star!**
+**⭐ Thanks for visiting my profile! Let's build something meaningful with AI.**
 
 </div>
