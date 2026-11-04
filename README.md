@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:00F7FF,100:6A5ACD&height=240&section=header&text=Krishna%20Tiwari&fontSize=68&fontAlignY=55&animation=fadeIn&fontColor=ffffff&stroke=00F7FF&strokeWidth=2&desc=AI%20DEVELOPER%20%7C%20AGENTIC%20AI%20%7C%20GENERATIVE%20AI&descSize=17&descAlignY=76&descAlign=50" width="100%" alt="Krishna Tiwari - AI Developer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:00F7FF,100:6A5ACD&height=220&section=header&text=Krishna%20Tiwari&fontSize=66&fontAlignY=55&animation=fadeIn&fontColor=ffffff&stroke=00F7FF&strokeWidth=2&desc=AI%20DEVELOPER%20%7C%20AGENTIC%20AI%20%7C%20GENERATIVE%20AI&descSize=17&descAlignY=76&descAlign=50" width="100%" alt="Krishna Tiwari - AI Developer" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;LLM+Applications+%7C+RAG+%7C+MCP;Python+%7C+LangGraph+%7C+LangChain+%7C+Agno;Turning+Ideas+into+Practical+AI+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00C7D9?style=for-the-badge&logo=vercel&logoColor=white)](https://krisnova.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-tiwari-195777333)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnatiwari005)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;LLM+Applications+%7C+RAG+%7C+MCP;Python+%7C+LangGraph+%7C+LangChain+%7C+Agno;Turning+Ideas+into+Practical+AI+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,50 +16,24 @@
 
 Hi, I'm **Krishna Tiwari**, an **AI Developer** focused on building practical AI applications, intelligent agents, and LLM-powered systems.
 
-I enjoy working across the AI application stack — designing agent workflows, building retrieval pipelines, developing Python APIs, and connecting AI applications with databases and external tools.
+I enjoy designing agent workflows, building retrieval pipelines, developing Python APIs, and connecting AI applications with databases and external tools.
 
 - 🤖 Building agentic AI workflows with **LangChain, LangGraph, and Agno**.
 - 🧠 Exploring **Generative AI, LLM applications, RAG, and MCP**.
 - 📚 Working with **Machine Learning, data processing, and model fundamentals**.
 - ⚙️ Developing backend services and APIs using **Python and FastAPI**.
 - 🗄️ Working with **PostgreSQL, SQLite, Supabase, and vector search**.
-- 🚀 Focused on turning AI ideas into useful, reliable applications.
-
-```python
-class KrishnaTiwari:
-    name = "Krishna Tiwari"
-    location = "India 🇮🇳"
-    role = "AI Developer | Agentic AI & Generative AI"
-
-    focus_areas = [
-        "Agentic AI and workflow orchestration",
-        "LLM applications and Generative AI",
-        "Retrieval-Augmented Generation (RAG)",
-        "Model Context Protocol (MCP)",
-        "Machine Learning and data science",
-        "Python backend and API development",
-    ]
-
-    core_tools = ["Python", "LangChain", "LangGraph", "Agno", "FastAPI"]
-
-    def motto(self):
-        return "Build useful things. Keep learning. Make AI practical. 🚀"
-```
-
----
 
 ## 🧠 Areas of Focus
 
-| Area | What I work on |
+| Area | Focus |
 |:--|:--|
 | **Agentic AI** | Tool-using agents, workflow orchestration, and task automation |
-| **Generative AI** | LLM-powered applications and prompt-driven workflows |
+| **Generative AI** | LLM-powered applications and prompt engineering |
 | **RAG** | Document loading, text splitting, embeddings, retrieval, and grounded responses |
 | **MCP** | Connecting AI models with tools and external context |
 | **Machine Learning** | Data preparation, core ML concepts, and model workflows |
 | **Backend Engineering** | Python services, REST APIs, and database integration |
-
----
 
 ## 🛠️ Tech Arsenal
 
@@ -116,21 +94,7 @@ class KrishnaTiwari:
 
 ---
 
-## 📈 GitHub Contribution Activity
-
-<div align="center">
-  <img src="./assets/contribution-30d.svg" alt="GitHub contribution activity: daily bars and a smooth seven-day trend line" width="100%" />
-  <br/>
-  <sub>Daily public contributions with a smooth curved 7-day trend line · Generated automatically by GitHub Actions</sub>
-  <br/><br/>
-  <a href="./assets/contribution-30d.svg">30 days</a> ·
-  <a href="./assets/contribution-90d.svg">90 days</a> ·
-  <a href="./assets/contribution-365d.svg">365 days</a>
-</div>
-
-> **First-time setup:** After adding this README, the graph generator script, and `.github/workflows/contribution-graph.yml`, open **Actions → Update Contribution Graph → Run workflow**. The workflow creates the SVG files in `assets/` and commits them to `main`. The image will display after that run succeeds. No personal access token is needed; the workflow reads the public contribution calendar and uses the repository's `GITHUB_TOKEN` only to commit the generated files.
-
-### 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
   <picture>
@@ -146,6 +110,7 @@ class KrishnaTiwari:
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-krisnova.vercel.app-00C7D9?style=for-the-badge&logo=vercel&logoColor=white)](https://krisnova.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-tiwari-195777333)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/krishna_tiwari005)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/krishna.08072005)
@@ -155,16 +120,12 @@ class KrishnaTiwari:
 
 </div>
 
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krishnatiwari005&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)
 ![GitHub Followers](https://img.shields.io/github/followers/krishnatiwari005?style=for-the-badge&color=6A5ACD&label=FOLLOWERS)
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6A5ACD,50:00F7FF,100:0D0D0D&height=130&section=footer&text=Building%20Useful%20AI%20Systems%20%F0%9F%A4%96&fontSize=27&fontColor=ffffff&animation=fadeIn" width="100%" alt="Building useful AI systems" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6A5ACD,50:00F7FF,100:0D0D0D&height=120&section=footer&text=Building%20Useful%20AI%20Systems%20%F0%9F%A4%96&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%" alt="Building useful AI systems" />
 
 **⭐ Thanks for visiting my profile! Let's build something meaningful with AI.**
 
